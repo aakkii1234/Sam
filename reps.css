@@ -1,0 +1,90 @@
+<style>
+    html {font-family: Arial, Helvetica, sans-serif;
+    }
+    #card {
+        width: 300px;
+        padding: 200px;
+        border: 5px solid black;
+        box-shadow: 5px 5px rgba(119, 101 101, 0.3);
+        margin: auto;
+        background-color: #fefcfa;
+        
+    }
+    .picture {
+        float: left;
+        
+    }
+    .stamp {
+        position: relative;
+    height: 300px;
+    width: 300px;
+    }
+    #card-one {
+        margin: 0px;
+        padding: 10px;
+        border: 1px solid black;
+        text-align: center;
+    }
+    .title {
+        font-weight: bold;
+        font-style: italic;
+    }
+    
+    #card-info {
+        margin: 0px;
+        padding: 10px;
+        border: 1px solid black;
+        text-align: center;   
+    }
+
+    .fact{
+        font-style: italic;
+    }
+    #under-name { 
+        margin: "0 auto";
+        padding: 20px;
+        border: 1px solid black;
+    
+        display: inline-block;
+        text-align:center;
+    }
+    .third {
+
+        hsidhi
+    }
+
+    #after-under-name {
+        margin: "300px";
+        padding: 20px;
+        border: 1px solid black;
+        text-align:center;
+
+    }
+    .fourth {
+
+
+    }
+    #after-bb {
+        margin: "300px";
+        padding: 20px;
+        border: 1px solid black;
+        text-align:center;
+
+    }
+    .fifth {
+
+
+    }
+#after-honours {
+    margin: "300px";
+    padding: 20px;
+    border: 1px solid black;
+    text-align:center;
+}
+.sixth{
+
+    
+}
+
+   </style>
+    
